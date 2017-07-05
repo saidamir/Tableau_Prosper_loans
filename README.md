@@ -1,6 +1,6 @@
 # Tableau_Prosper_loans
-Tableau exibition visualization of Prosper loans public repository
-Follow the link to view the full visualisation story:
+Tableau exhibition visualization of Prosper loans public repository
+Follow the link to view the full visualization story:
 
 https://public.tableau.com/profile/ziz3941#!/vizhome/Prosper_Loan_Ziz/Story1
 
